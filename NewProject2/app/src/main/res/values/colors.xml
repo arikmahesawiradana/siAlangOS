@@ -1,0 +1,7 @@
+<resources>
+	<color name="colorPrimary">#BED65E</color>
+	<color name="colorPrimaryDark">#BED65E</color>
+	<color name="colorAccent">#BED65E</color>
+	<color name="colorControlHighlight">#008DCD</color>
+	<color name="colorControlNormal">#BED699</color>
+</resources>
